@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-Bartcraft
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: 48519877-07a1-4f97-911c-4c95e338ffcd
+  SUBSCRIPTION-ID: fad076af-6c59-4ae7-b652-73add0d69bfb
   WEBAPP-NAME: eshoponweb-webapp-Bartcraft
 
 jobs:
